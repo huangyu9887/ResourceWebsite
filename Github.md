@@ -10,3 +10,7 @@ http://rogerdudler.github.io/git-guide/index.zh.html
 
 # 中年
 http://taiwan.chtsai.org/2014/03/23/zhongnian/
+
+# 字体情绪
+
+http://www.yangzhiping.com/psy/fonts.html
