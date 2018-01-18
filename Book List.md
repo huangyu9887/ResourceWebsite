@@ -258,6 +258,10 @@ https://mp.weixin.qq.com/s/KUVVQXwtscn9BL2NLs77Mw
 https://mp.weixin.qq.com/s/ft5fBZZ0B2NYl9rvOihHMQ
 
 
+## KINDLE电子书搜索
+http://forfrigg.com/
+
+
 ## CHANGE LOG
 
 - 20180108 HYL
