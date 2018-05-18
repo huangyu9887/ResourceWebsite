@@ -1,11 +1,16 @@
+# 作者
+
 作者：知乎用户
 链接：https://www.zhihu.com/question/20251786/answer/29455639
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-一、学术：
-	1. 重要！知网学术导航：学术网站大全(http://dir.cnki.net/)
-	2. 若干期刊文献搜索及相关：
+# 资源
+
+## 学术：
+	
+- 1. 重要！知网学术导航：学术网站大全(http://dir.cnki.net/)
+- 2. 若干期刊文献搜索及相关：
 ScienceDirect
 Web of Science
 知网
@@ -28,7 +33,8 @@ TXT 离线版：下载：百度网盘分享页。解压密码：daizhige。
 	11. OPEN开源文档，技术文档分享平台
 	12. Bookfi，找各种原版教材的神器。
 	13. Library Genesis
-二、行业：
+	
+## 行业：
 	• 化学：
 	1. Merck Index（在线版：The Merck Index Online），
 收录了化学药品、药物和生理性物质的综合性百科（书 or 搜索），做化学和做药的都必备。
@@ -42,12 +48,12 @@ TXT 离线版：下载：百度网盘分享页。解压密码：daizhige。
 ALLDATASHEETCN.COM
 	• 计算机：
 	1. 代码：
-GitHub
-Codase
-Ohloh
-krugle
-Merobase Component Finder
-Google Code Archive
+		GitHub
+		Codase
+		Ohloh
+		krugle
+		Merobase Component Finder
+		Google Code Archive
 	2. SymbolHound
 可以搜索特殊符号的搜索引擎，程序员的福音，遇到 Bash、正则之类的问题时候的利器！
 	3. Hoogle
@@ -138,41 +144,45 @@ Ask.com
 wikiHow
 HowStuffWorks
 	4. QS 全球高校排名：University Rankings
-六、相似搜索：
+## 相似搜索：
 	1. 用 Google 等综合搜索引擎的搜索方法：
 related:(网址)
 	2. Google Goggles
 	3. 类似网站搜索-SimilarSiteSearch.com
 	4. 以图搜图：TinEye
 	5. 哼唱搜索：Midomi
-七、聚合搜索：
+## 聚合搜索：
 	1. 美国的框计算：Wolfram|Alpha
 	2. AnywhereAnything
 	3. 快搜 - 搜索快人一步
 	4. 404bus，用以访问一些访问不到的搜索引擎
 	5. 遨寰宇
-八、信息安全（请勿用于非法用途！）：
+## 信息安全（请勿用于非法用途！）：
 	1. SHODAN - Computer Search Engine
 维基介绍：Shodan (website)
 	2. ZoomEye - The Cyberspace Search Engine
 如何使用：ZoomEye 用户手册
 	3. 找回你，注册过哪些网站
 
-九、绿色、隐私保护：
+## 绿色、隐私保护：
 	1. DuckDuckGo，承诺不监控、不记录使用者的搜寻内容。
 	2. Blackle，节能搜索
 	3. Startpage Web Search，数据加密的搜索引擎
-十、无障碍：
+## 无障碍：
 	1. 百度爸妈搜索
 
-十一、桌面：
+## 桌面：
 	1. Everything (for Windows)
 	2. Listary (for Windows)
 	3. Alfred (for OS X) 
 	4. 压缩包内搜索工具：Archive Searcher
 
-十二、以人为主体的搜索：
+## 以人为主体的搜索：
 	1. 爱豆搜：豆瓣人肉搜索引擎
 暂时只有这些……还有旧版存档：有哪些特殊的搜索引擎？
 最后一次更新移除了部分失效的、低质量的链接。
 转载请注明出处，谢谢！
+
+# CHANGELOG
+
+- 20180518 转自知乎
